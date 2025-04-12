@@ -1,1 +1,1 @@
-# SLC
+# Heart-Disease-Pred
